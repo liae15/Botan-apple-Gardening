@@ -1,5 +1,6 @@
 # **Botan(apple) Gardening**
 How often should I water my plant? Where is it native to?
+
 Botan(apple) Gardening is a program that helps people learn about and care for the plants in their day-to-day life! Botan(apple) can find information about almost any plant and displays it on an easy-to-read, colorful page for the conveience of my fellow plant lovers.
 
 ## **How it Works**
